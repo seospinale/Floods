@@ -1,0 +1,109 @@
+EEFieldId,RegionId,EEGroupId,EEFieldLabel,EEFieldDesc,EEFieldType,EEFieldSize,EEFieldOrder,EEFieldStatus,RecordCreation,RecordSync,RecordUpdate
+EEF000,"","",Iglesias,"Campo para ser eliminado.... Como lo eliminamos?",INTEGER,0,0,0,"2009-11-11 18:33:13","2009-11-11 18:33:13",2009-11-19T23:03:55+00:00
+EEF001,"","","Puentes destruidos","Pérdida total del puente",INTEGER,0,0,3,"2009-11-11 18:33:13","2009-11-11 18:33:13",2009-11-19T23:05:37+00:00
+EEF003,COL-1250694506-colombia_inventario_historico_de_desastres,"","Puentes afectados","Puentes que necesitan reparaciones para ser puestos en funcionamiento",INTEGER,0,0,3,2009-11-25T17:19:41+00:00,2009-11-25T17:19:41+00:00,2009-11-25T17:19:41+00:00
+EEF004,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Familias Afectadas","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF005,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Puentes Vehiculares","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF006,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Puentes Peatonales","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF007,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Acueductos Afectados","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF008,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Centros Comunitarios","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF009,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Fecha Trámite Administrativo","",DATE,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF010,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,Menajes,"",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF011,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Ap. Aliment","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF012,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Materiales Construcción","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF013,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,Sacos,"",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF014,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,Otros,"",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF015,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Giro Directo","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF016,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,Econom.,"",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF017,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Valor Total","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF018,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Apoyos en Trámite","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF019,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Fecha Recibo","",DATE,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF020,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Trámite ante DPAD","",DATE,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF021,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,Atendido,"",BOOLEAN,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF022,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,Comentarios,"",STRING,200,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF023,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Número de Iglesias","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF024,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Iglesias Afectadas","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF025,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cepillo Adulto (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF026,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cepillo Adulto (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF027,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cepillo Niño (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF028,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cepillo Niño (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF029,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Chocolatera (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF030,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Chocolatera (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF031,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cinta Empalmar (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF032,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cinta Empalmar (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF033,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cobija (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF034,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cobija (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF035,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cobija Térmica (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF036,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cobija Térmica (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF037,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Colchoneta (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF038,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Colchoneta (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF039,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Catre (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF040,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Catre (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF041,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Crema Desodorante (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF042,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Crema Desodorante (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF043,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cuchara Acero (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF044,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cuchara Acero (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF045,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cuchara Madera (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF046,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cuchara Madera (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF047,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Estufas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF048,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Estufas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF049,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Hamacas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF050,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Hamacas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF051,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Jabón Baño (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF052,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Jabón Baño (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF053,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Jabón Barra (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF054,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Jabón Barra (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF055,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Juego Cubiertos (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00,2010-01-21T20:28:29+00:00
+EEF056,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Juego Cubiertos (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF057,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Ollas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF058,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Ollas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF059,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Papel Higiénico (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF060,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Papel Higiénico (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF061,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Peinilla (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF062,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Peinilla (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF063,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Plástico Negro (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF064,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Plástico Negro (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF065,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Plato Hondo (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF066,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Plato Hondo (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF067,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Plato Pando (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF068,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Plato Pando (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF069,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Pocillo (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF070,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Pocillo (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF071,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Sábanas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF072,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Sábanas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF073,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Sobrecamas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF074,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Sobrecamas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF075,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Toallas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF076,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Toallas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF077,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Toldillos (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF078,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Toldillos (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF079,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Kit Aseo (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF080,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Kit Aseo (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF081,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Kit Cocina (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF082,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Kit Cocina (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF083,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Kit Alcoba (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF084,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Kit Alcoba (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF085,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Meanenes (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF086,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Sacos (Cantidad)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF087,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Sacos (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF088,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Mercados (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF089,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Mercados (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF090,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cemento (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF091,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Cemento (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF092,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Tejas (Cant)","",INTEGER,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF093,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Tejas (Valor)","",CURRENCY,50,0,3,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00,2010-01-21T20:28:30+00:00
+EEF094,COL-1250694506-colombia_inventario_historico_de_desastres,"","Afectados por racionamiento","Número de afectados por racionamiento de servicios públicos, ejemplo, agua potable, energía, etc.",INTEGER,0,0,3,2011-06-01T15:50:04+00:00,"",2011-06-01T15:50:04+00:00
+EEF095,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Alcantarillados afectados","",INTEGER,50,0,3,2014-07-15T20:51:46+00:00,"",2014-07-15T20:51:46+00:00
+EEF096,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Recursos ejecutados","",CURRENCY,50,0,3,2014-07-15T20:51:46+00:00,"",2014-07-15T20:51:46+00:00
+EEF097,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Subsidio de arriendo","",CURRENCY,50,0,3,2014-07-15T20:51:46+00:00,"",2014-07-15T20:51:46+00:00
+EEF098,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Transferencia económica","",CURRENCY,50,0,3,2014-07-15T20:51:46+00:00,"",2014-07-15T20:51:46+00:00
+EEF099,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Materiales de construcción - desc","",STRING,200,0,3,2014-07-15T20:51:46+00:00,"",2014-07-15T20:51:46+00:00
+EEF100,COL-1250694506-colombia_inventario_historico_de_desastres,DGR,"Materiales de construcción - valor","",CURRENCY,50,0,3,2014-07-15T20:51:46+00:00,"",2014-07-15T20:51:46+00:00
+EEF101,COL-1250694506-colombia_inventario_historico_de_desastres,"","Carpas (Cant)","Cantidad de carpas",INTEGER,0,0,1,2016-04-18T15:27:52+00:00,"",2016-04-18T15:27:52+00:00
+EEF102,COL-1250694506-colombia_inventario_historico_de_desastres,"","Carpas (Valor)","Valor de las carpas",CURRENCY,0,0,1,2016-04-18T15:29:34+00:00,"",2016-04-22T02:26:11+00:00
+EEF103,COL-1250694506-colombia_inventario_historico_de_desastres,"","Botas (Cant)","Cantidad de botas",INTEGER,0,0,1,2016-04-18T15:30:35+00:00,"",2016-04-18T15:30:35+00:00
+EEF104,COL-1250694506-colombia_inventario_historico_de_desastres,"","Botas (Valor)","Valor de las botas",CURRENCY,0,0,1,2016-04-18T15:31:25+00:00,"",2016-04-22T02:26:04+00:00
+EEF105,COL-1250694506-colombia_inventario_historico_de_desastres,""," Raciones de campaña (Cant)","Cantidad de las raciones de campaña",INTEGER,0,0,1,2016-04-18T15:32:39+00:00,"",2016-04-18T15:32:39+00:00
+EEF106,COL-1250694506-colombia_inventario_historico_de_desastres,""," Raciones de campaña (Valor)","Valor de las raciones de campaña",CURRENCY,0,0,1,2016-04-18T15:34:01+00:00,"",2016-04-22T02:25:55+00:00
+EEF107,COL-1250694506-colombia_inventario_historico_de_desastres,"","Vías afectadas","Número de vías afectadas",INTEGER,0,0,1,2016-04-20T20:31:08+00:00,"",2016-04-20T20:31:08+00:00
+EEF108,COL-1250694506-colombia_inventario_historico_de_desastres,"","caminos afectados",caminos,INTEGER,0,0,0,2019-10-24T19:50:29+00:00,"",2019-10-24T19:52:14+00:00

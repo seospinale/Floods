@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegionInfo Version="1.0"><General><RegionId>COL-1250694506-colombia_inventario_historico_de_desastres</RegionId><RegionLabel>Colombia - Inventario histórico nacional de desastres</RegionLabel><LangIsoCode>spa</LangIsoCode><CountryIso>COL</CountryIso><RegionOrder>1000</RegionOrder><RegionStatus>3</RegionStatus><RegionLastUpdate>2009-11-11T18:30:43+00:00</RegionLastUpdate><IsCRegion>0</IsCRegion><IsVRegion>0</IsVRegion><DBVersion></DBVersion><PeriodBeginDate></PeriodBeginDate><PeriodEndDate></PeriodEndDate><GeoLimitMinX>-80</GeoLimitMinX><GeoLimitMinY>-5</GeoLimitMinY><GeoLimitMaxX>-66</GeoLimitMaxX><GeoLimitMaxY>12.9</GeoLimitMaxY><SerialSuffixSize>0</SerialSuffixSize><SerialCloneSuffixSize>0</SerialCloneSuffixSize><OptionOutOfRange>0</OptionOutOfRange><OptionLanguageList>spa</OptionLanguageList><OptionOldName>COLOMBIA</OptionOldName><NumberOfRecords>54358</NumberOfRecords></General><Description LangIsoCode="eng"><InfoCredits></InfoCredits><InfoGeneral></InfoGeneral><InfoSources></InfoSources><InfoSynopsis></InfoSynopsis><InfoObservation></InfoObservation><InfoGeography></InfoGeography><InfoCartography></InfoCartography><InfoAdminURL>http://www.osso.org.co</InfoAdminURL></Description><Description LangIsoCode="spa"><InfoCredits>**Coordinación del desarrollo del inventario:** &#13;
+Corporación OSSO - Universidad EAFIT (durante la actualización de los años 2008 - 2009).&#13;
+&#13;
+**Entidades que han apoyado el desarrollo del inventario:**&#13;
+Oficina de las Naciones Unidas sobre la Reducción del Riesgo de Desastres;&#13;
+La Red de Estudios Sociales en Prevención de Desastres en América Latina - LA RED;&#13;
+Comunidad Andina de Naciones - Unión Europea, mediante el Proyecto PREDECAN</InfoCredits><InfoGeneral>Este inventario ha sido construido por etapas desde 1996 en el marco de diversos proyectos. Su construcción se inició con el proyecto piloto de La Red de Estudios Sociales en Prevención de Desastres en América Latina, proyecto IAI-La Red Gestión de riesgos de desastres ENSO se actualizó para el periodo 1970-2002. En el marco de la consultoría con el Proyecto PREDECAN - CAPRADE se actualizó hasta el año 2006 y se realizó una revisión y depuración desde 1970. Con el apoyo de la Estrategia Internacional para la Reducción de Desastres (ISDR) Naciones Unidas se actualizó hasta diciembre de 2009. La construcción de la base ha estado a cargo de la Corporación OSSO, con participación de la Universidad EAFIT.&#13;
+&#13;
+La base de datos se encuentra actualizada hasta febrero del 2018, sin embargo, para este ultimo año en especial esta actualización sólo corresponde a los impactos por avenidas torrenciales. La información sobre los otros eventos se encuentra en proceso de sistematización y revisión.&#13;
+&#13;
+Contacto: Nayibe Jiménez Pérez&#13;
+Corporación OSSO&#13;
+Email: nayibe.jimenez@osso.org.co</InfoGeneral><InfoSources>#Fuentes oficiales:&#13;
+&#13;
+UNGRD - DGR - DNPAD - DNPAD - DPAD. 1995-2018. Actual Unidad Nacional para la Gestión del Riesgo de Desastres. La entidad ha tenido diferentes denominaciones desde que se creó el Sistema Nacional para la Atención y Prevención de Desastres. La información es reportada a la UNGRD, por parte de los consejos locales y regionales constituidos en todo el país. &#13;
+&#13;
+ONAD. 1989-1994. Reportes de la Oficina Nacional para la Atención de Desastres.&#13;
+&#13;
+#Fuentes hemerográficas:&#13;
+&#13;
+Periódico El Tiempo: revisión y compilación sistemática durante el periodo 1970-2009. &#13;
+&#13;
+Bases OSSO. Periodo 1961- 1993. Con base en búsquedas específicas en varios periódicos EL País, El Espectador, El Tiempo.&#13;
+&#13;
+El País. 2000-2002: Revisión y compilación sistemática.&#13;
+&#13;
+Periódico La Patria (de Manizales).1921-1988.  Revisión del periódico por parte del Instituto de investigaciones e información geocientífica, minero-ambiental y nuclear- INGEOMINAS. &#13;
+&#13;
+#Otras fuentes de información:&#13;
+&#13;
+- A. Maskrey. Editor (1996). Terremotos en el trópico húmedo. Se obtuvieron datos para los sismos del 17 y 18 de Octubre de 1992. &#13;
+- Montero (2001)&#13;
+- ERN (2004) &#13;
+- CEPAL (1999)</InfoSources><InfoSynopsis>La base contiene información desde 1914. Sin embargo, el periodo 1970-2017 tiene información sistemática, la cual representa el 98%. En este periodo hay un promedio de 600 reportes por año, con picos especialmente en 1971, 1999, 2010, 2011, los cuales coinciden con episodios fríos del fenómeno de La Niña.  &#13;
+&#13;
+La mayor cantidad de información se concentra en las regiones Andina, Pacífica y Atlántica, en las cuales se concentra la población y la infraestructura económica. En los municipios con mayor cantidad de reportes (Cali, Medellín y Barranquilla, así como la ciudad de Bogotá) se localizan las principales ciudades del país.</InfoSynopsis><InfoObservation></InfoObservation><InfoGeography>Dos niveles geográficos: Departamento y Municipio.</InfoGeography><InfoCartography>Cartografía digital a escala municipal proveida por el IGAC</InfoCartography><InfoAdminURL>http://www.osso.org.co</InfoAdminURL></Description><GeoCarto><GeoCartoItem GeoLevelId="0" LangIsoCode="spa"><GeoLevelLayerFile>admin00</GeoLevelLayerFile><GeoLevelLayerName>NOMBRE_DPT</GeoLevelLayerName><GeoLevelLayerCode>COD_DPTO</GeoLevelLayerCode></GeoCartoItem><GeoCartoItem GeoLevelId="1" LangIsoCode="spa"><GeoLevelLayerFile>admin01</GeoLevelLayerFile><GeoLevelLayerName>NOMBRE</GeoLevelLayerName><GeoLevelLayerCode>CODDANE</GeoLevelLayerCode></GeoCartoItem></GeoCarto></RegionInfo>

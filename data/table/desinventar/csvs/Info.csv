@@ -1,0 +1,79 @@
+InfoKey,LangIsoCode,InfoValue,InfoAuxValue,RecordCreation,RecordSync,RecordUpdate
+InfoCredits,eng,"Corporación OSSO, U. EAFIT, LA RED (2008) Historic inventory of losses of Colombia, 1914-2009. Disponible en online.desinventar.org","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoGeneral,eng,"","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoSources,eng,"Governmental.
+Database of the National Office for Attention to Disasters – ONAD ONAD.  1989-1994. Oficina Nacional para la Atención de Desastres ONAD. Based on reports from this entity.
+
+DPAD/DNPAD/DGR. 1995-2009. Direction for the Prevention of and Attention to Disasters (Dirección de Prevención y Atención de Desastres). Timeframe: . Based on disasters reported to this entity by local and regional committees throughout the country.
+
+LA PATRIA de Manizales. 1921-1988. Institute of Research and Geo-Scientific, Mineral, Environmental and Nuclear Information – INGEOMINAS (Instituto de investigaciones e información geocientífica, minero-ambiental y nuclear- INGEOMINAS). Timeframe: . Based on a review of the regional newspaper La Patria from Manizales.
+
+MEDIA
+El Tiempo. 1970-2007. Newspaper, Systematic revision and compilation of material between 
+
+El País, El Espectador, El Tiempo.  1961 – 1993. Database of the Southwestern Seismological Observatory – OSSO (Observatorio Sismológico del Suroccidente). Based on newspapers reports from (Bogota).
+
+El Pais. 2000-2002. One-off research primarily on earthquakes, flooding and landslides across a wide timeframe. Information was was reviewed and compiled systematically between
+
+OTHER SOURCES
+""Earthquakes in the humid tropics"", Andrew Maskey, editor (1996). Timeframe: 17th-18th of October 1992. Specific information to quantify the effects of the earthquakes that took place on these dates.
+
+Montero (2001), ERN (2004), CEPAL (1999).","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoSynopsis,eng,"There is systematic information for the period between 1970 and 2009, this represents 91% of the database. During this period, there are approximately 600 reports per year, with particular peaks in 1971 and 1999. Both of these coincide with cold episodes due to the phenomenon of La Niña.
+
+The greater quantity of information is concentrated in the Andean Region and the Pacific and Atlantic Regions, In these cities, there is a higher concentration of population and economic infrastructure. The municipalities with the highest number of reports (Cali, Medellin, Barranquilla and Bogota) coincide in location with the largest cities in the country.
+
+The database of Colombia holds information on 33 of the 36 types of events of natural, socio-natural and anthropic origin that are captured by DesInventar’s methodology. Of this data, 60% of the reports recorded between 1970 and 2007 are associated to landslides and flooding. The database also holds information on all the 27 variables of effects that DesInventar manages.  Nonetheless, it is worth nothing that the most robust information, in terms of quantity and continuity of data, is that related to deaths, affected victims, and destroyed and affected housing.","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoObservation,eng,"","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoGeography,eng,"Two geographic levels: departments and municipalities","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoCartography,eng,"Digital cartography provided by IGAC.","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoAdminURL,eng,http://www.osso.org.co,"",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoCredits,spa,"Corporación OSSO, U. EAFIT, LA RED (2010) Inventario histórico de desastres de Colombia 1914-2009. Disponible en online.desinventar.org","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoGeneral,spa,"Este inventario ha sido construido por etapas desde 1996 en el marco de diversos proyectos. Su construcción se inició con el proyecto piloto de La Red ""Inventarios históricos de desastres en América Latina"". En el proyecto de IAI-La Red ""Gestión de riesgos de desastres ENSO"" se actualizó para el periodo 1970-2002. En el marco de la consultoría con el Proyecto PREDECAN - CAPRADE se actualizó hasta el año 2006 y se realizó una revisión y depuración desde 1970. Con el apoyo de la Estrategia Internacional para la Reducción de Desastres (ISDR) Naciones Unidas se actualizó hasta diciembre de 2009. La construcción de la base ha estado a cargo de la Corporación OSSO, con participación de la U. EAFIT.","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoSources,spa,"Gubernamentales.
+ONAD. 1989-1994. reportes de la Oficina Nacional para la Atención de Desastres (fuente oficial).
+
+DPAD/DNPAD/DGR. 1995-2009. Dirección de Prevención y Atención de Desastres. Periodo  Desastres reportados a esa entidad por los comités regionales y locales en todo el país.
+
+Hemerográficas.
+Periódico El Tiempo: revisión y compilación sistemática durante el periodo 1970-2007. 
+
+Bases OSSO. Periodo 1961- 1993. Con base en búsquedas específicas en varios periódicos EL País, El Espectador, El Tiempo.
+
+El País. 2000-2002: Revisión y compilación sistemática.
+
+La Patria (de Manizales).1921-1988.  Revisión del periódico por parte del Instituto de investigaciones e información geocientífica, minero-ambiental y nuclear- INGEOMINAS. Periodo 
+
+Otras fuentes:
+-Maskrey. Editor (1996). Terremotos en el trópico húmedo-, Andrew Período: 17-18 de Octubre de 1992. Información específica para cuantificar los efectos de los sismos ocurridos en esas fechas.
+
+- Montero (2001), ERN  (2004), CEPAL (1999)","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoSynopsis,spa,"El periodo 1970-2009  tiene información sistemática, la cual representa el 91% del total de la base de datos. En este periodo hay un promedio de 600 reportes por año, con picos especialmente en 1971 y 1999, los cuales coinciden con episodios fríos del fenómeno de La Niña.  
+
+La mayor cantidad de información se concentra en las regiones Andina, Pacífica y Atlántica, en las cuales se concentra la población y la infraestructura económica. En los municipios con mayor cantidad de reportes (Cali, Medellín y Barranquilla, así como la ciudad de Bogotá) se localizan las principales ciudades del país.","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoObservation,spa,"","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoGeography,spa,"Dos niveles geográficos: Departamento y Municipio.","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoCartography,spa,"Cartografía digital a escala municipal proveida por el IGAC","",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+InfoAdminURL,spa,http://www.osso.org.co,"",2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00,2010-07-26T19:55:52+00:00
+RegionId,,COL-1250694506-colombia_inventario_historico_de_desastres,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+RegionLabel,,"Colombia - Inventario histórico nacional de desastres",,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+LangIsoCode,,spa,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+CountryIso,,COL,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+RegionOrder,,1000,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+RegionStatus,,3,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+RegionLastUpdate,,2009-11-11T18:30:43+00:00,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+IsCRegion,,0,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+IsVRegion,,0,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+DBVersion,,"",,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+PeriodBeginDate,,"",,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+PeriodEndDate,,"",,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+GeoLimitMinX,,-80,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+GeoLimitMinY,,-5,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+GeoLimitMaxX,,-66,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+GeoLimitMaxY,,12.9,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+SerialSuffixSize,,0,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+SerialCloneSuffixSize,,0,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+OptionOutOfRange,,0,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+OptionLanguageList,,spa,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+OptionOldName,,COLOMBIA,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
+NumberOfRecords,,54358,,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000,2020-07-24T02:20:53+0000
