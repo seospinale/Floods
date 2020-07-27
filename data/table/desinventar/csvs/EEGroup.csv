@@ -1,2 +1,3 @@
-EEGroupId,RegionId,EEGroupLabel,EEGroupDesc,EEGroupStatus,RecordCreation,RecordSync,RecordUpdate
-DGR,COL-1250694506-colombia_inventario_historico_de_desastres,"Campos DGR","",3,2010-01-21T15:32:30,2010-01-21T15:32:30,2010-01-21T15:32:30
+version https://git-lfs.github.com/spec/v1
+oid sha256:a621a158b28cc3f62a8fb8ec9a39418e677d8d12224220cd5232fb0c8256ad43
+size 239

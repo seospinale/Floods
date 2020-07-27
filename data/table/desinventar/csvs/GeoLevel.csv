@@ -1,3 +1,3 @@
-GeoLevelId,LangIsoCode,RegionId,GeoLevelName,GeoLevelDesc,GeoLevelActive,RecordCreation,RecordSync,RecordUpdate
-0,spa,,Departamento,"Equivalente a estado..",1,"2009-11-11 18:32:35","2009-11-11 18:32:35","2009-11-11 18:32:35"
-1,spa,,Municipio,"Equivalente a ..",1,"2009-11-11 18:32:35","2009-11-11 18:32:35","2009-11-11 18:32:35"
+version https://git-lfs.github.com/spec/v1
+oid sha256:126ac1a549ab68b77ea230a6ab1330c6a41fcb28f97e29dc1c7aa30cdfa8be4b
+size 332
